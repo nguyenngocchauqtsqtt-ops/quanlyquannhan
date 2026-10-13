@@ -1,0 +1,1 @@
+Giải nén ZIP, mở index.html. Nhấn các mục ở thanh dưới để thử chuyển trang. Trình xem trước iOS có thể chặn điều hướng giữa các file; khi đó cần chạy qua HTTP trên máy tính hoặc máy chủ nội bộ. Không có JavaScript; dữ liệu hoàn toàn giả.
